@@ -14,7 +14,7 @@ A Flutter-based BMI Calculator app available for both Android and iOS. It featur
 
 ## 📸 Screenshot
 
-![BMI Calculator UI](Screenshot%202025-02-02%20at%205.05.46%E2%80%AFPM.png)
+![BMI Calculator UI](Screenshot.png)
 
 ## 🛠️ Technologies Used
 
